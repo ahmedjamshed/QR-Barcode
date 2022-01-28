@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009580829577",
+    "firebase_url": "https://qr-barcode-scan-and-generate.firebaseio.com",
+    "project_id": "qr-barcode-scan-and-generate",
+    "storage_bucket": "qr-barcode-scan-and-generate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009580829577:android:e6fa170acdbff9521a8f58",
+        "android_client_info": {
+          "package_name": "com.appsace.qrbarcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009580829577-q1ae5665irjghpug58asqrpeupaceitl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrQOHt9fEGGvk-u4xHo5AGoivndM9uC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009580829577-q1ae5665irjghpug58asqrpeupaceitl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009580829577-9hb85m8eh5rbsqiopl0isrl0ovvjj48p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsace.qrbarcode"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9361308558657065~4123466665"
+    }
+  ],
+  "configuration_version": "1"
+}
